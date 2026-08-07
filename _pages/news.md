@@ -49,6 +49,13 @@ Selected Coverage
   <span class="date">2026</span></span>
 </a>
 
+<a class="mcard" href="https://nextcity.org/urbanist-news/la-county-tests-new-approach-counting-homeless-youth-sampling" target="_blank" rel="noopener">
+  <img class="logo" src="https://www.google.com/s2/favicons?domain=nextcity.org&sz=128" alt="Next City">
+  <span class="body"><span class="top"><span class="outlet">Next City</span> <span class="flag">Syndication</span></span>
+  <span class="title">L.A. County Tests a New Approach To Counting Homeless Youth: Relying on Youth Themselves</span>
+  <span class="date">2026</span></span>
+</a>
+
 <a class="mcard" href="https://www.thestranger.com/news/king-countys-homelessness-crisis-worsens-but-at-a-slower-pace/" target="_blank" rel="noopener">
   <img class="logo" src="https://www.google.com/s2/favicons?domain=thestranger.com&sz=128" alt="The Stranger">
   <span class="body"><span class="top"><span class="outlet">The Stranger</span> <span class="flag">Quoted</span></span>
