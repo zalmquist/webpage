@@ -42,6 +42,13 @@ Selected Coverage
 
 <div class="media-cards">
 
+<a class="mcard" href="https://imprintnews.org/top-stories/l-a-county-tests-new-approach-to-counting-homeless-youth-relying-on-youth-themselves/276177" target="_blank" rel="noopener">
+  <img class="logo" src="https://www.google.com/s2/favicons?domain=imprintnews.org&sz=128" alt="The Imprint">
+  <span class="body"><span class="top"><span class="outlet">The Imprint</span> <span class="flag">Quoted</span></span>
+  <span class="title">L.A. County Tests New Approach to Counting Homeless Youth: Relying on Youth Themselves</span>
+  <span class="date">2026</span></span>
+</a>
+
 <a class="mcard" href="https://www.thestranger.com/news/king-countys-homelessness-crisis-worsens-but-at-a-slower-pace/" target="_blank" rel="noopener">
   <img class="logo" src="https://www.google.com/s2/favicons?domain=thestranger.com&sz=128" alt="The Stranger">
   <span class="body"><span class="top"><span class="outlet">The Stranger</span> <span class="flag">Quoted</span></span>
