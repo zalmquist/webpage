@@ -159,13 +159,6 @@ University Features & Syndication
   <span class="date">October 2024</span></span>
 </a>
 
-<a class="mcard" href="https://soc.washington.edu/news/2021/05/12/zack-almquist-solving-three-body-problem" target="_blank" rel="noopener">
-  <img class="logo" src="https://www.google.com/s2/favicons?domain=soc.washington.edu&sz=128" alt="UW Sociology">
-  <span class="body"><span class="top"><span class="outlet">UW Sociology</span> <span class="flag">Profile</span></span>
-  <span class="title">Zack Almquist: Solving the Three-Body Problem</span>
-  <span class="date">May 2021</span></span>
-</a>
-
 <a class="mcard" href="https://soc.washington.edu/news/2024/11/15/researchers-uw-improve-upon-survey-based-system-better-homeless-counts" target="_blank" rel="noopener">
   <img class="logo" src="https://www.google.com/s2/favicons?domain=soc.washington.edu&sz=128" alt="UW Sociology">
   <span class="body"><span class="top"><span class="outlet">UW Sociology</span> <span class="flag">Feature</span></span>
